@@ -1,0 +1,3 @@
+[submodule "sc"]
+	path = sc
+	url = git@github.com:luvitale/truffle-sc.git
