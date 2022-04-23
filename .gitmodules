@@ -1,3 +1,6 @@
 [submodule "sc"]
 	path = sc
 	url = git@github.com:luvitale/truffle-sc.git
+[submodule "dapp"]
+	path = dapp
+	url = git@github.com:luvitale/web3-dapp
